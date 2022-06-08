@@ -1,2 +1,1 @@
-# shoppingcart
-Basic shopping cart using OOPs
+Basic Clinic adding patients in a queue 
